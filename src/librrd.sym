@@ -86,6 +86,8 @@ rrdc_info
 rrdc_is_any_connected
 rrdc_is_connected
 rrdc_last
+rrdc_list
+rrdc_ping
 rrdc_stats_free
 rrdc_stats_get
 rrdc_update
